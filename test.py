@@ -1,1 +1,1 @@
-hello my dear friend
+print("OJ AJ AJAJAAJ")
